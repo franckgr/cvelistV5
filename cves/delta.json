@@ -1,0 +1,14 @@
+{
+  "fetchTime": "2024-06-13T10:19:31.003Z",
+  "numberOfChanges": 1,
+  "new": [
+    {
+      "cveId": "CVE-2024-5927",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2024-5927",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2024/5xxx/CVE-2024-5927.json",
+      "dateUpdated": "2024-06-13T10:18:57.400Z"
+    }
+  ],
+  "updated": [],
+  "error": []
+}
